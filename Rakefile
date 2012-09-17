@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-OutsourceYourFriends::Application.load_tasks
+MyAwesomeFacebookApp::Application.load_tasks
